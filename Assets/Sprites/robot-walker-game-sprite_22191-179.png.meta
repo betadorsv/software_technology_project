@@ -1,0 +1,698 @@
+fileFormatVersion: 2
+guid: e46ffac6533b44a4585538bfb308d90b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: robot-walker-game-sprite_22191-179_0
+    21300002: robot-walker-game-sprite_22191-179_1
+    21300004: robot-walker-game-sprite_22191-179_2
+    21300006: robot-walker-game-sprite_22191-179_3
+    21300008: robot-walker-game-sprite_22191-179_4
+    21300010: robot-walker-game-sprite_22191-179_5
+    21300012: robot-walker-game-sprite_22191-179_6
+    21300014: robot-walker-game-sprite_22191-179_7
+    21300016: robot-walker-game-sprite_22191-179_8
+    21300018: robot-walker-game-sprite_22191-179_9
+    21300020: robot-walker-game-sprite_22191-179_10
+    21300022: robot-walker-game-sprite_22191-179_11
+    21300024: robot-walker-game-sprite_22191-179_12
+    21300026: robot-walker-game-sprite_22191-179_13
+    21300028: robot-walker-game-sprite_22191-179_14
+    21300030: robot-walker-game-sprite_22191-179_15
+    21300032: robot-walker-game-sprite_22191-179_16
+    21300034: robot-walker-game-sprite_22191-179_17
+    21300036: robot-walker-game-sprite_22191-179_18
+    21300038: robot-walker-game-sprite_22191-179_19
+    21300040: robot-walker-game-sprite_22191-179_20
+    21300042: robot-walker-game-sprite_22191-179_21
+    21300044: robot-walker-game-sprite_22191-179_22
+    21300046: robot-walker-game-sprite_22191-179_23
+    21300048: robot-walker-game-sprite_22191-179_24
+    21300050: robot-walker-game-sprite_22191-179_25
+    21300052: robot-walker-game-sprite_22191-179_26
+    21300054: robot-walker-game-sprite_22191-179_27
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 170
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53095f39b05f6b4ba3dfc8e2ad8a20e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 170
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a5b90871a42f146bc3c5139597454c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 170
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62e36e55512a1c46a2200b963c04b1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 170
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae60079130522dc4cb8b7ce0d77eaf0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 170
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb232b5ff6d876469d2dd994d12459f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 170
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240760fe0baf0894fb8e0fb71f9798c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 66
+        width: 221
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966e8cf1ce805a045925d20f0e3c17ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 120
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8789c5d9a5bb60d48bc448a4da9fa04a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 120
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9632f99fdba8b4e85f477c315b9724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_9
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 120
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593a859fbd5b99847830f9a458791450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 120
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43fc136907ac604d9544966d53575cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_11
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 120
+        width: 49
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cd8ed97562ce249a1ec242095ec152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_12
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 120
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684b0cb19e4a5aa4ba258c539db4fab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 70
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6979379476826e468e245f515ed0d79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_14
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 70
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523e2c0ea6ada3c4ba2963448a328f77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 70
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3580218226009db469f60eb9915c22a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_16
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 70
+        width: 48
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b76e21899ea8848b4aa759a85ccfa6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 70
+        width: 50
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0aa5386418c66046a715d3500f047ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 15
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f72f529ec72d234abcd4587fe8a96f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_19
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 15
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b89c3d427feff1458e09815d4d28428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 15
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55fe26a82d0f9fa42894dc8c0ddceea1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd68bb32488a4b4dbee2d059be299b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_22
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 14
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e87aa332c72674ab73f7969aa568aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_23
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 15
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ba79e3190b3504eb48a297ff6994b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_24
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 15
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232ba892c7de40a499080bf16eb32cc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_25
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 15
+        width: 50
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3e2e8518e2c6b479366458c268f9a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_26
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 15
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b1f315d0658994f818ca6fef8a8efb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: robot-walker-game-sprite_22191-179_27
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 15
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b27088fc593ca428e470a417b0c8b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e3057ea8532c3e5498c3c35de60c4ae4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

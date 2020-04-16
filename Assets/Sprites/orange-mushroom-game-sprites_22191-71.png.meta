@@ -1,0 +1,1181 @@
+fileFormatVersion: 2
+guid: 172acb564d955b74db2038d13903cda2
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: orange-mushroom-game-sprites_22191-71_0
+    21300002: orange-mushroom-game-sprites_22191-71_1
+    21300004: orange-mushroom-game-sprites_22191-71_2
+    21300006: orange-mushroom-game-sprites_22191-71_3
+    21300008: orange-mushroom-game-sprites_22191-71_4
+    21300010: orange-mushroom-game-sprites_22191-71_5
+    21300012: orange-mushroom-game-sprites_22191-71_6
+    21300014: orange-mushroom-game-sprites_22191-71_7
+    21300016: orange-mushroom-game-sprites_22191-71_8
+    21300018: orange-mushroom-game-sprites_22191-71_9
+    21300020: orange-mushroom-game-sprites_22191-71_10
+    21300022: orange-mushroom-game-sprites_22191-71_11
+    21300024: orange-mushroom-game-sprites_22191-71_12
+    21300026: orange-mushroom-game-sprites_22191-71_13
+    21300028: orange-mushroom-game-sprites_22191-71_14
+    21300030: orange-mushroom-game-sprites_22191-71_15
+    21300032: orange-mushroom-game-sprites_22191-71_16
+    21300034: orange-mushroom-game-sprites_22191-71_17
+    21300036: orange-mushroom-game-sprites_22191-71_18
+    21300038: orange-mushroom-game-sprites_22191-71_19
+    21300040: orange-mushroom-game-sprites_22191-71_20
+    21300042: orange-mushroom-game-sprites_22191-71_21
+    21300044: orange-mushroom-game-sprites_22191-71_22
+    21300046: orange-mushroom-game-sprites_22191-71_23
+    21300048: orange-mushroom-game-sprites_22191-71_24
+    21300050: orange-mushroom-game-sprites_22191-71_25
+    21300052: orange-mushroom-game-sprites_22191-71_26
+    21300054: orange-mushroom-game-sprites_22191-71_27
+    21300056: orange-mushroom-game-sprites_22191-71_28
+    21300058: orange-mushroom-game-sprites_22191-71_29
+    21300060: orange-mushroom-game-sprites_22191-71_30
+    21300062: orange-mushroom-game-sprites_22191-71_31
+    21300064: orange-mushroom-game-sprites_22191-71_32
+    21300066: orange-mushroom-game-sprites_22191-71_33
+    21300068: orange-mushroom-game-sprites_22191-71_34
+    21300070: orange-mushroom-game-sprites_22191-71_35
+    21300072: orange-mushroom-game-sprites_22191-71_36
+    21300074: orange-mushroom-game-sprites_22191-71_37
+    21300076: orange-mushroom-game-sprites_22191-71_38
+    21300078: orange-mushroom-game-sprites_22191-71_39
+    21300080: orange-mushroom-game-sprites_22191-71_40
+    21300082: orange-mushroom-game-sprites_22191-71_41
+    21300084: orange-mushroom-game-sprites_22191-71_42
+    21300086: orange-mushroom-game-sprites_22191-71_43
+    21300088: orange-mushroom-game-sprites_22191-71_44
+    21300090: orange-mushroom-game-sprites_22191-71_45
+    21300092: orange-mushroom-game-sprites_22191-71_46
+    21300094: orange-mushroom-game-sprites_22191-71_47
+    21300096: orange-mushroom-game-sprites_22191-71_48
+    21300098: orange-mushroom-game-sprites_22191-71_49
+    21300100: orange-mushroom-game-sprites_22191-71_50
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 185
+        width: 180
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb784a37ad969004e807cf4851895ab9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 181
+        width: 196
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bc038c6f28a584f96b194d4af2a5f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 174
+        width: 193
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9cebe68174b5a48946d46cd2605821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d7b317bb31e9d4a9a090b33a92d2d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_4
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 129
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6261c3c93ef4a5343bb8a73489f0e2c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 129
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d5d6d0e3596054084e706500f1525b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 129
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c43a7c46041f154e98aa98962c75f79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 128
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1c0d138ca92674c90d510031a30516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_8
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 129
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a861ddb454047345a83c9de9537cc39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_9
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 128
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03d063a9b36a4340905b2739b19a71f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 129
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f0c6e95c855474abcc28081cb57d70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_11
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 128
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5612c69bb8efa6f4a97541daf042dc88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_12
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 128
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ad86c4b3ff9864aa2add84696d6c05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_13
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 128
+        width: 42
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3d5a56d77fcf44485d20ac06a17f93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_14
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 128
+        width: 45
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ad1fbfc96555e41ac685a8e371095b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7addd1955acfca14aa9fb2b27651c673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_16
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 84
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ece254f7d83b1448e7045c6ee90357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 84
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ba4fd46a52edd4e851db4de878d0b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_18
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 84
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f27b6fe170eee42a023b6bfff28d6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 84
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbad49d371e90a41a5898815acf09ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_20
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 85
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4789a7fd32fb9294390c99be5a92ffbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 84
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc48231428858284e88ded325550eb47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 84
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9a61af24cb1d64f99fae463c685717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_23
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 83
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3869842d154db4cb7be2e3f1735e4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_24
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 83
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e2418d3ff475141bcc85fe97c60362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_25
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 83
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3e9d25f782bd04f9d3773a0d52565d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_26
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 83
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c39400f53fd53745a424eeeec9f1cf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6a21c0374a0f94b8ecf9d5fd1163bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_28
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 42
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39a069311a489046806b6748d4e6f58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_29
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 42
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f2bdc99a7e2ab4fa2c2fb4a3a82612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_30
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 42
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39282208083ffe4aa9d423c75df206e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_31
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 42
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3e146843ce57348b24c40128f10e62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_32
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 43
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e69ec1908a84c43bde1007ae6f997f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_33
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 42
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b231fbfb916d8d649a4e159b5f20659e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_34
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 42
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a987740926444429123ec161d60104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_35
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 42
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d2011e8b0d4fe429afa7044a4369e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_36
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 42
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e9e5057585f89478fc5500d81c4089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_37
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 42
+        width: 46
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e883741240127045b26f7458e9ab2b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_38
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 42
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c26afdbcdf4014c9bfc7a67146ea82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50ef1d274aea154e89f09688a7fa864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_40
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3f956400441b344b21c0b9bc6ebbf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_41
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5123a11a043754c9da4b8e6abb3a40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_42
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258d2f10fa90f8046a5330adf94170fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_43
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c83f8910a24da4598478b8cbf38f0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bc8965f1a84a143a86f983eab05bbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_45
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eae3cc1b12db1e45bfaa8e8e77dd705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_46
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 40
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847a2e6f68c1e164895b4267cad0770e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_47
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d336ef120a909648b88b8a3bea7ca55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_48
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 0
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176802abd3dc40745ba9442363e1b584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_49
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 45
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced1b383c54c34b4ebb5e35e4a59e3fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange-mushroom-game-sprites_22191-71_50
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 0
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d86b32ef06d064e8e9c6849bbe02d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1e20d81474d2b2540adaa0d10c8f6b33
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
